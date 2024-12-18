@@ -1,0 +1,3 @@
+What is python ?
+Python is a widely used high level general purpose language
+interpereted, dynamic programming language
