@@ -2,10 +2,10 @@
 dict1 = {'a':4,'b':3,'c':8}
 
 ascending = dict(sorted(dict1.items(), key=lambda item:item[1]))
-print(ascending)
+print("Sorting in ascending ",ascending)
 
 descending = dict(sorted(dict1.items(), key=lambda item:item[1],reverse=True))
-print(descending)
+print("Sorting in descending ",descending)
 
 
 
